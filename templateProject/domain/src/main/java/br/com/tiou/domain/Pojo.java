@@ -5,12 +5,14 @@ package br.com.tiou.domain;
 
 /**
  * @author rtiou
+ * @version 0.0.1
  *
  */
 public class Pojo {
 	private int id;
 	private String login;
 	private String password;
+	
 
 	public int getId() {
 		return id;
